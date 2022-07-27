@@ -1,0 +1,49 @@
+Test scenario: 
+Memasukan item ke cart from blibli.com
+Test step:
+1. Pilih item
+2. Tentukan jumlah item
+3. Klik bayar
+Expected result:
+Muncul notifikasi item telah ditambahkan pada icon Cart
+Actualy result:
+
+
+Test scenario: 
+Membeli item yang ada di Cart from blibli.com
+Test step:
+1. Masuk ke halaman Cart
+2. Pilih item 
+3. Klik checkout
+4. Pilih lokasi pengiriman
+5. Pilih metode pengiriman
+6. Pilih metode pembayaran
+7. Klik bayar sekarang
+Expected result:
+Muncul notifikasi pembayaran berhasil 
+Actualy result:
+
+
+Test scenario: 
+Login dengan invalid password
+Test step:
+1. Masuk ke halaman login
+2. Masukan valid username
+3. Masukan invalid password
+4. Klik login
+Expected result:
+User tidak dapat mengakses ke homepage
+Actualy result:
+
+
+Test scenario: 
+Login dengan blank box
+Test step:
+1. Masuk ke halaman login
+2. Masukan valid username
+3. Masukan invalid password
+4. Klik login
+Expected result:
+User tidak dapat mengakses ke homepage
+Actualy result:
+

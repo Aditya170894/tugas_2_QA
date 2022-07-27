@@ -1,0 +1,6 @@
+Scenario: login with invalid credential to blibli.com
+
+Given user is on sign in page
+When user use correct email
+And user sign in
+Then input the correct pasword

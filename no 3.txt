@@ -1,0 +1,11 @@
+Scenario: registration to blibli.com
+
+Given user is register in page
+When user use full name
+And user use valid email
+And user use valid password 
+And user checked the check box
+And user sign up
+And user use verify code
+And user verify
+Then user successfully registered

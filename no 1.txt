@@ -1,0 +1,9 @@
+Test scenario: Memasukan item ke cart from blibli.com
+
+Test step:
+1. Pilih item
+2. Tentukan jumlah item
+3. Klik bayar
+
+Expected result:
+Muncul notifikasi item telah ditambahkan pada icon Cart
