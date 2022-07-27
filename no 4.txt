@@ -7,7 +7,7 @@ Test step:
 Expected result:
 Muncul notifikasi item telah ditambahkan pada icon Cart
 Actualy result:
-
+Muncul notifikasi item telah ditambahkan pada icon Cart
 
 Test scenario: 
 Membeli item yang ada di Cart from blibli.com
@@ -22,7 +22,7 @@ Test step:
 Expected result:
 Muncul notifikasi pembayaran berhasil 
 Actualy result:
-
+User tidak dapat menyimpan alamat saat menambahkan alamat baru
 
 Test scenario: 
 Login dengan invalid password
@@ -34,7 +34,7 @@ Test step:
 Expected result:
 User tidak dapat mengakses ke homepage
 Actualy result:
-
+User tidak dapat mengakses ke homepage
 
 Test scenario: 
 Login dengan blank box
@@ -46,4 +46,4 @@ Test step:
 Expected result:
 User tidak dapat mengakses ke homepage
 Actualy result:
-
+User dapat mengakses ke homepage
